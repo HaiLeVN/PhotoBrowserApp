@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoBrowserApp</string>
+    <string name="browse_photos">Browse Photos</string>
+    <string name="photo_title">Photo Title</string>
+</resources>
